@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<CardList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Items>
+    <Card Index="1" Name="Charizard" ImageName="1_Charizard" HP="100" Speed="100" Attack="100" Defense="100" Sp.Attack="100" Sp.Defense="100" DamageTable="1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2" AttackList="FS DC DC DC" />
+    <Card Index="2" Name="Blastoise" ImageName="2_Blastoise" HP="100" Speed="100" Attack="100" Defense="100" Sp.Attack="100" Sp.Defense="100" DamageTable="1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2" AttackList="FS DC DC DC" />
+  </Items>
+</CardList>

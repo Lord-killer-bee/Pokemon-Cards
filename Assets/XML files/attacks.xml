@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ATList>
+	<Items>
+		<AttackInfo AttackCode="LS" AttackName="Leaf Storm" Damage="130" Type="Grass" AttackType="S"/>
+		<AttackInfo AttackCode="EB" AttackName="Egg Bomb" Damage="100" Type="Normal" AttackType="A"/>
+		<AttackInfo AttackCode="WH" AttackName="Wood Hammer" Damage="120" Type="Grass" AttackType="A"/>
+		<AttackInfo AttackCode="PC" AttackName="Psychic" Damage="90" Type="Psychic" AttackType="S"/>
+		<AttackInfo AttackCode="SB" AttackName="Solar Beam" Damage="120" Type="Grass" AttackType="S"/>
+		<AttackInfo AttackCode="AP" AttackName="Ancient Power" Damage="60" Type="Rock" AttackType="S"/>
+		<AttackInfo AttackCode="PW" AttackName="Power Whip" Damage="120" Type="Grass" AttackType="A"/>
+		<AttackInfo AttackCode="SG" AttackName="Sludge Bomb" Damage="90" Type="Poison" AttackType="S"/>
+		<AttackInfo AttackCode="WF" AttackName="Water Fall" Damage="80" Type="Water" AttackType="A"/>
+		<AttackInfo AttackCode="HP" AttackName="Hydro Pump" Damage="110" Type="Water" AttackType="S"/>
+		<AttackInfo AttackCode="SE" AttackName="Stone Edge" Damage="100" Type="Rock" AttackType="A"/>
+		<AttackInfo AttackCode="TD" AttackName="Thunder" Damage="110" Type="Electric" AttackType="S"/>
+		<AttackInfo AttackCode="DG" AttackName="Dig" Damage="80" Type="Ground" AttackType="A"/>
+		<AttackInfo AttackCode="WC" AttackName="Wild Charge" Damage="90" Type="Electric" AttackType="A"/>
+		<AttackInfo AttackCode="HB" AttackName="Hyper Beam" Damage="150" Type="Normal" AttackType="S"/>
+		<AttackInfo AttackCode="FB" AttackName="Fire Blast" Damage="110" Type="Fire" AttackType="S"/>
+		<AttackInfo AttackCode="EX" AttackName="Extrasensory" Damage="80" Type="Psychic" AttackType="S"/>
+		<AttackInfo AttackCode="HX" AttackName="Hex" Damage="80" Type="Ghost" AttackType="S"/>
+		<AttackInfo AttackCode="AT" AttackName="Aqua Tail" Damage="90" Type="Water" AttackType="A"/>
+		<AttackInfo AttackCode="NS" AttackName="Night Slash" Damage="80" Type="Dark" AttackType="A"/>
+		<AttackInfo AttackCode="SF" AttackName="Surf" Damage="90" Type="Water" AttackType="S"/>
+		<AttackInfo AttackCode="FZ" AttackName="Flare Blitz" Damage="120" Type="Fire" AttackType="A"/>
+		<AttackInfo AttackCode="OH" AttackName="Over Heat" Damage="130" Type="Fire" AttackType="S"/>
+		<AttackInfo AttackCode="FY" AttackName="Fly" Damage="90" Type="Flying" AttackType="A"/>
+		<AttackInfo AttackCode="DC" AttackName="Dragon Claw" Damage="80" Type="Dragon" AttackType="A"/>
+		<AttackInfo AttackCode="ND" AttackName="Night Shade" Damage="70" Type="Dark" AttackType="A"/>
+		<AttackInfo AttackCode="PG" AttackName="Power Gem" Damage="80" Type="Rock" AttackType="A"/>
+		<AttackInfo AttackCode="PR" AttackName="Play Rough" Damage="90" Type="Fairy" AttackType="A"/>
+		<AttackInfo AttackCode="FL" AttackName="Focus Blast" Damage="120" Type="Fight" AttackType="S"/>
+		<AttackInfo AttackCode="FP" AttackName="Fire Punch" Damage="75" Type="Fire" AttackType="A"/>
+		<AttackInfo AttackCode="BB" AttackName="Brick Break" Damage="75" Type="Fight" AttackType="A"/>
+		<AttackInfo AttackCode="BZ" AttackName="Blizzard" Damage="110" Type="Ice" AttackType="S"/>
+		<AttackInfo AttackCode="BS" AttackName="Body Slam" Damage="85" Type="Normal" AttackType="A"/>
+		<AttackInfo AttackCode="HK" AttackName="High Jump Kick" Damage="130" Type="Fight" AttackType="A"/>
+		<AttackInfo AttackCode="MK" AttackName="Mega Kick" Damage="120" Type="Normal" AttackType="A"/>
+		<AttackInfo AttackCode="BK" AttackName="Blaze Kick" Damage="85" Type="Fire" AttackType="A"/>
+		<AttackInfo AttackCode="EQ" AttackName="Earthquake" Damage="100" Type="Ground" AttackType="A"/>
+		<AttackInfo AttackCode="EP" AttackName="Explosion" Damage="250" Type="Normal" AttackType="A"/>
+		<AttackInfo AttackCode="GS" AttackName="Gunk Shot" Damage="120" Type="Poison" AttackType="A"/>
+		<AttackInfo AttackCode="BL" AttackName="Belch" Damage="120" Type="Poison" AttackType="S"/>
+		<AttackInfo AttackCode="CR" AttackName="Crunch" Damage="90" Type="Dark" AttackType="A"/>
+		<AttackInfo AttackCode="MB" AttackName="Mud Bomb" Damage="65" Type="Ground" AttackType="S"/>
+		<AttackInfo AttackCode="XS" AttackName="X-Scissor" Damage="80" Type="Bug" AttackType="A"/>
+		<AttackInfo AttackCode="SL" AttackName="Slam" Damage="80" Type="Normal" AttackType="A"/>
+		<AttackInfo AttackCode="SH" AttackName="Shadow Ball" Damage="80" Type="Ghost" AttackType="S"/>
+		<AttackInfo AttackCode="DP" AttackName="Dark Pulse" Damage="80" Type="Dark" AttackType="S"/>
+		<AttackInfo AttackCode="TB" AttackName="Thunder Bolt" Damage="90" Type="Electric" AttackType="S"/>
+		<AttackInfo AttackCode="DE" AttackName="Double Edge" Damage="120" Type="Normal" AttackType="A"/>
+		<AttackInfo AttackCode="TF" AttackName="Thief" Damage="60" Type="Dark" AttackType="A"/>
+		<AttackInfo AttackCode="RT" AttackName="Rock Tomb" Damage="60" Type="Rock" AttackType="A"/>
+		<AttackInfo AttackCode="AS" AttackName="Air Slash" Damage="75" Type="Flying" AttackType="A"/>
+		<AttackInfo AttackCode="BT" AttackName="Bite" Damage="60" Type="Dark" AttackType="A"/>
+		<AttackInfo AttackCode="LR" AttackName="Last Resort" Damage="140" Type="Normal" AttackType="A"/>
+		<AttackInfo AttackCode="FC" AttackName="Façade" Damage="70" Type="Normal" AttackType="A"/>
+		<AttackInfo AttackCode="RO" AttackName="Roll Out" Damage="50" Type="Rock" AttackType="A"/>
+		<AttackInfo AttackCode="DK" AttackName="Drill Peck" Damage="90" Type="Flying" AttackType="A"/>
+		<AttackInfo AttackCode="ZC" AttackName="Zap Cannon" Damage="120" Type="Electric" AttackType="S"/>
+		<AttackInfo AttackCode="RS" AttackName="Roost" Damage="0" Type="Flying" AttackType="S"/>
+		<AttackInfo AttackCode="SW" AttackName="Sludge Wave" Damage="90" Type="Poison" AttackType="A"/>
+		<AttackInfo AttackCode="PJ" AttackName="Poison Jab" Damage="80" Type="Poison" AttackType="A"/>
+		<AttackInfo AttackCode="PB" AttackName="Petal Blizzard" Damage="90" Type="Grass" AttackType="A"/>
+		<AttackInfo AttackCode="GI" AttackName="Giga Impact" Damage="150" Type="Normal" AttackType="A"/>
+		<AttackInfo AttackCode="SM" AttackName="Signal Beam" Damage="75" Type="Bug" AttackType="S"/>
+		<AttackInfo AttackCode="TA" AttackName="Tri Attack" Damage="80" Type="Normal" AttackType="S"/>
+		<AttackInfo AttackCode="FO" AttackName="Flash Cannon" Damage="80" Type="Steel" AttackType="S"/>
+		<AttackInfo AttackCode="SU" AttackName="Sucker Punch" Damage="80" Type="Dark" AttackType="A"/>
+		<AttackInfo AttackCode="CC" AttackName="Close Combat" Damage="120" Type="Fight" AttackType="A"/>
+		<AttackInfo AttackCode="TS" AttackName="Thrash" Damage="120" Type="Normal" AttackType="A"/>
+		<AttackInfo AttackCode="AR" AttackName="Assurance" Damage="60" Type="Dark" AttackType="A"/>
+		<AttackInfo AttackCode="RD" AttackName="Rock Slide" Damage="75" Type="Rock" AttackType="A"/>
+		<AttackInfo AttackCode="HR" AttackName="Hurricane" Damage="110" Type="Flying" AttackType="S"/>
+		<AttackInfo AttackCode="ML" AttackName="Magic Leaf" Damage="60" Type="Grass" AttackType="S"/>
+		<AttackInfo AttackCode="DM" AttackName="Dazzling Gleam" Damage="80" Type="Fairy" AttackType="S"/>
+		<AttackInfo AttackCode="MH" AttackName="Mega Horn" Damage="120" Type="Bug" AttackType="A"/>
+		<AttackInfo AttackCode="BU" AttackName="Bug Buzz" Damage="90" Type="Bug" AttackType="S"/>
+		<AttackInfo AttackCode="EL" AttackName="Energy Ball" Damage="90" Type="Grass" AttackType="S"/>
+		<AttackInfo AttackCode="AA" AttackName="Aerial Ace" Damage="60" Type="Flying" AttackType="A"/>
+		<AttackInfo AttackCode="UT" AttackName="U-Turn" Damage="70" Type="Bug" AttackType="A"/>
+		<AttackInfo AttackCode="CP" AttackName="Cross Chop" Damage="100" Type="Fight" AttackType="A"/>
+		<AttackInfo AttackCode="DO" AttackName="Dual Chop" Damage="50" Type="Dragon" AttackType="A"/>
+		<AttackInfo AttackCode="MP" AttackName="Mega Punch" Damage="80" Type="Normal" AttackType="A"/>
+		<AttackInfo AttackCode="OT" AttackName="Outrage" Damage="120" Type="Dragon" AttackType="A"/>
+		<AttackInfo AttackCode="IB" AttackName="Ice Beam" Damage="90" Type="Ice" AttackType="S"/>
+		<AttackInfo AttackCode="SS" AttackName="Skull Bash" Damage="90" Type="Normal" AttackType="A"/>
+		<AttackInfo AttackCode="ZH" AttackName="Zen Headbutt" Damage="80" Type="Psychic" AttackType="A"/>
+		<AttackInfo AttackCode="CW" AttackName="Crush Claw" Damage="75" Type="Normal" AttackType="A"/>
+		<AttackInfo AttackCode="SR" AttackName="Super Power" Damage="100" Type="Fight" AttackType="A"/>
+		<AttackInfo AttackCode="DB" AttackName="Dragon Breath" Damage="60" Type="Dragon" AttackType="S"/>
+		<AttackInfo AttackCode="SY" AttackName="Synchronize" Damage="120" Type="Psychic" AttackType="S"/>
+		<AttackInfo AttackCode="BO" AttackName="Bulldoze" Damage="60" Type="Ground" AttackType="A"/>
+		<AttackInfo AttackCode="DV" AttackName="Dive" Damage="80" Type="Water" AttackType="A"/>
+		<AttackInfo AttackCode="LB" AttackName="Leaf Blade" Damage="90" Type="Grass" AttackType="A"/>
+		<AttackInfo AttackCode="VS" AttackName="Venoshock" Damage="70" Type="Poison" AttackType="A"/>
+		<AttackInfo AttackCode="ST" AttackName="Strength" Damage="80" Type="Normal" AttackType="A"/>
+		<AttackInfo AttackCode="DY" AttackName="Dynamic Punch" Damage="100" Type="Fight" AttackType="A"/>
+		<AttackInfo AttackCode="PK" AttackName="Psy Strike" Damage="100" Type="Psychic" AttackType="S"/>
+		<AttackInfo AttackCode="AE" AttackName="Aura Sphere" Damage="80" Type="Fight" AttackType="S"/>
+		<AttackInfo AttackCode="RV" AttackName="Recover" Damage="0" Type="Normal" AttackType="S"/>
+		<AttackInfo AttackCode="CO" AttackName="Cross Poison" Damage="70" Type="Poison" AttackType="A"/>
+		<AttackInfo AttackCode="DS" AttackName="Dragon Pulse" Damage="85" Type="Dragon" AttackType="S"/>
+		<AttackInfo AttackCode="SI" AttackName="Steel Wing" Damage="70" Type="Steel" AttackType="A"/>
+		<AttackInfo AttackCode="PY" AttackName="Payback" Damage="50" Type="Dark" AttackType="A"/>
+		<AttackInfo AttackCode="SC" AttackName="Sky Attack" Damage="140" Type="Flying" AttackType="A"/>
+		<AttackInfo AttackCode="PN" AttackName="Petal Dance" Damage="120" Type="Grass" AttackType="S"/>
+		<AttackInfo AttackCode="HG" AttackName="Hyper Fang" Damage="80" Type="Normal" AttackType="A"/>
+		<AttackInfo AttackCode="HW" AttackName="Hidden Power" Damage="60" Type="Normal" AttackType="S"/>
+		<AttackInfo AttackCode="DU" AttackName="Drill Run" Damage="80" Type="Ground" AttackType="A"/>
+		<AttackInfo AttackCode="TH" AttackName="Thunder Punch" Damage="75" Type="Electric" AttackType="A"/>
+		<AttackInfo AttackCode="IH" AttackName="Ice Punch" Damage="75" Type="Ice" AttackType="A"/>
+		<AttackInfo AttackCode="PT" AttackName="Psycho Cut" Damage="70" Type="Psychic" AttackType="A"/>
+		<AttackInfo AttackCode="BD" AttackName="Brave Bird" Damage="120" Type="Flying" AttackType="A"/>
+		<AttackInfo AttackCode="HM" AttackName="Hammer Arm" Damage="100" Type="Fight" AttackType="A"/>
+		<AttackInfo AttackCode="DL" AttackName="Dragon Tail" Damage="60" Type="Dragon" AttackType="A"/>
+		<AttackInfo AttackCode="CM" AttackName="Crab Hammer" Damage="100" Type="Water" AttackType="A"/>
+		<AttackInfo AttackCode="EO" AttackName="Earth Power" Damage="90" Type="Ground" AttackType="S"/>
+		<AttackInfo AttackCode="SA" AttackName="Slash" Damage="70" Type="Normal" AttackType="A"/>
+		<AttackInfo AttackCode="FU" AttackName="Focus Punch" Damage="150" Type="Fight" AttackType="A"/>
+	</Items>
+</ATList>
